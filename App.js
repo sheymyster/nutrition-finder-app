@@ -10,8 +10,8 @@ export default class App extends React.Component {
           </View>
           <View style={styles.box2}>
             <Button onPress={() => {
-              Alert.alert("You tapped the button!");  }}
-              title="Press Me"><Text>PRESS ME</Text></Button>
+              Alert.alert("I love you!");  }}
+              title="Click Me Adrienne!"></Button>
           </View>
       </View>
     );
